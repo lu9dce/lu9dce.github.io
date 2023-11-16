@@ -27,11 +27,12 @@ header {
 }
 
 .container {
-    max-width: 1030px;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
     background-color: #202020;
     color: #f0f0f0;
+    border-radius: 15px;
 }
 
 
@@ -46,6 +47,7 @@ h1 {
     background-color: #071a27;
     color: #f8f1f1;
     font-size: 14px;
+    border-radius: 15px;
 }
 
 .boton {
