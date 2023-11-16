@@ -27,7 +27,7 @@ header {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 1030px;
     margin: 0 auto;
     padding: 20px;
     background-color: #202020;
@@ -40,11 +40,12 @@ h1 {
 }
 
 .con {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 10px;
     background-color: #071a27;
     color: #f8f1f1;
+    font-size: 14px;
 }
 
 .boton {
